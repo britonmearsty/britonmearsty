@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Briton Mearsty</h1>
+<h1 align="center" >Hi there 👋, I'm Briton Mearsty</h1>
 <h3 align="center">A passionate developer from Kenya 🇰🇪</h3>
 
 <p align="center">
@@ -61,9 +61,9 @@
 
 Here are a few projects I'm proud of:
 
-- [**Project One**](https://github.com/britonmearsty/project-one) — portfolio.
-- [**Project Two**](https://github.com/britonmearsty/project-two) — Description of project.
-- [**Project Three**](https://github.com/britonmearsty/project-three) — Description of project.
+- [**Project One**](https://github.com/britonmearsty/portfolio-website) — portfolio.
+- [**Project Two**](https://github.com/britonmearsty/hyper) — hyper
+- [**Project Three**](https://github.com/britonmearsty/safarimind1) — safarimind
 
 ---
 
