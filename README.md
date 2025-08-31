@@ -1,88 +1,76 @@
-<!-- Profile README -->
+<div align="center">
+  
+# 👨‍💻 Hello World! I'm Briton Mearsty
+### Turning ☕ into `<code/>` | Full Stack Developer
 
-<h1 align="center" >Hi there 👋, I'm Briton Mearsty</h1>
-<h3 align="center">A passionate developer from Kenya 🇰🇪</h3>
+![Profile Views](https://komarev.com/ghpg/britonmearsty/views)
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-  </a>
-</p>
+</div>
 
----
+## 🎯 About Me
 
-### 🧑‍💻 About Me
+```python
+class BritonMearsty:
+    def __init__(self):
+        self.current_work = "AI Study Companion 🤖"
+        self.learning = ["Python 🐍", "Next.js ⚡", "Cloud Engineering ☁️"]
+        self.expertise = ["Python", "React", "APIs", "Data Structures"]
+        self.coffee_consumed = float('inf')
 
-- 🔭 I’m currently working on: `Ai study companion`
-- 🌱 I’m currently learning: `e.g. python`, `Next.js`, `Cloud Engineering`
-- 💬 Ask me about: `Python`, `React`, `APIs`, `Data Structures`
-- 📫 How to reach me: [mearstybriton@gmail.com](mailto:mearstybriton@gmail.com)
-- ⚡ Fun fact: I love turning coffee into code ☕
+    def convert_coffee_to_code(self):
+        while self.coffee_consumed > 0:
+            print("Writing awesome code! ✨")
+```
 
----
+## 🚀 Tech Universe
 
-### 🛠️ Languages and Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <!-- Add more icons as needed -->
-</p>
+| Frontend | Backend | Database | Tools |
+|----------|---------|-----------|-------|
+| <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/> |
 
----
+</div>
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=britonmearsty&theme=dark)](https://github.com/britonmearsty)
 
----
+</div>
 
-### 🔗 Connect with Me
+## 🎯 Current Focus
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
-  <a href="https://dev.to/your-devto" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="30" width="30" /></a>
-  <!-- Add other social links here -->
-</p>
+- 🔭 Building an **AI Study Companion** that's going to revolutionize learning
+- 🌱 Diving deep into the world of **Cloud Engineering**
+- 🧪 Experimenting with **Next.js** and modern web architectures
+- 📚 Always learning, always growing!
 
----
+## 💡 Fun Facts
 
-### 📂 Featured Projects
+- ☕ My code is powered by an infinite supply of coffee
+- 🎮 When not coding, you might find me debugging... just kidding, probably gaming
+- 🌟 I believe in clean code and clean coffee mugs
+- 🎵 I debug with background music
 
-Here are a few projects I'm proud of:
+## 🤝 Let's Connect!
 
-- [**Project One**](https://github.com/britonmearsty/portfolio-website) — portfolio.
-- [**Project Two**](https://github.com/britonmearsty/hyper) — hyper
-- [**Project Three**](https://github.com/britonmearsty/safarimind1) — safarimind
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/Email-mearstybriton%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mearstybriton@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40MearstyBriton-blue?style=for-the-badge&logo=twitter)](https://x.com/MearstyBriton)
+[![GitHub](https://img.shields.io/badge/GitHub-britonmearsty-black?style=for-the-badge&logo=github)](https://github.com/britonmearsty)
 
-### 📅 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Replace with GitHub activity or use GitHub Actions to automate -->
-<!--END_SECTION:activity-->
+</div>
 
 ---
 
-### 📝 Latest Blog Posts
+<div align="center">
+  
+### 💭 Thought of the Day
+*"The best error message is the one that never shows up."* - Thomas Fuchs
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace with feed or use GitHub Actions to automate -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
----
-
-<p align="center">
-  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
-</p>
+> Last updated: 2025-08-31 15:34:27 UTC
