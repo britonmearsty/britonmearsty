@@ -24,39 +24,27 @@
 
 ## About
 
-```typescript
-const briton: Developer = {
-  name       : "Briton Cheruyot",
-  location   : "Nairobi, Kenya",
-  role       : "Full-Stack Developer",
-  stack      : ["TypeScript", "React", "Node.js", "Next.js"],
-  focus      : ["Web Applications", "Developer Tooling", "Open Source"],
-  current    : "Building SafariMind — an AI-powered platform",
-};
-```
-
-<br/>
-
-<table>
+<table width="100%">
   <tr>
-    <td><b>Currently building</b></td>
-    <td><a href="https://github.com/britonmearsty/safarimind1">SafariMind</a> — AI-powered platform</td>
-  </tr>
-  <tr>
-    <td><b>Shipped</b></td>
-    <td><a href="https://github.com/britonmearsty/dekumart">DekuMart</a> — University student marketplace at Dedan Kimathi</td>
-  </tr>
-  <tr>
-    <td><b>Solved</b></td>
-    <td><a href="https://github.com/britonmearsty/friendly-invoice-assistant">Friendly Invoice Assistant</a> — Streamlined invoicing workflow</td>
-  </tr>
-  <tr>
-    <td><b>Portfolio</b></td>
-    <td><a href="https://github.com/britonmearsty/portfolio-Website">portfolio-Website</a> — Personal developer portfolio</td>
-  </tr>
-  <tr>
-    <td><b>Open to</b></td>
-    <td>Collaborations, freelance projects, and open source contributions</td>
+    <td width="50%" valign="top">
+      <h3>Briton Cheruyot</h3>
+      <p>
+        Full-Stack Developer based in <b>Nairobi, Kenya</b>, specialising in TypeScript across the full stack. I build web applications that are clean, performant, and maintainable — from university marketplaces to AI-powered platforms.
+      </p>
+      <p>
+        I care deeply about developer experience, product quality, and writing code that is easy to reason about. Currently focused on <a href="https://github.com/britonmearsty/safarimind1"><b>SafariMind</b></a> — an AI-powered platform in active development.
+      </p>
+    </td>
+    <td width="50%" valign="top" align="right">
+      <table width="100%">
+        <tr><td><b>Role</b></td><td>Full-Stack Developer</td></tr>
+        <tr><td><b>Location</b></td><td>Nairobi, Kenya</td></tr>
+        <tr><td><b>Primary Stack</b></td><td>TypeScript, React, Node.js</td></tr>
+        <tr><td><b>Current Project</b></td><td>SafariMind</td></tr>
+        <tr><td><b>Available for</b></td><td>Freelance &amp; Collaboration</td></tr>
+        <tr><td><b>Contact</b></td><td><a href="https://twitter.com/MearstyBriton">@MearstyBriton</a></td></tr>
+      </table>
+    </td>
   </tr>
 </table>
 
@@ -66,35 +54,131 @@ const briton: Developer = {
 
 ## Tech Stack
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <th align="left">Category</th>
+    <th align="left" width="20%">Category</th>
     <th align="left">Technologies</th>
   </tr>
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,js&theme=dark" height="32" />
+      <img src="https://skillicons.dev/icons?i=ts,js&theme=dark" height="30" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" height="32" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" height="30" />
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase&theme=dark" height="32" />
+      <img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase&theme=dark" height="30" />
     </td>
   </tr>
   <tr>
     <td><b>Tooling</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux&theme=dark" height="32" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux&theme=dark" height="30" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## Projects
+
+<table width="100%">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="center">Language</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/britonmearsty/safarimind1"><b>SafariMind</b></a></td>
+    <td>AI-powered platform — first release, ongoing development</td>
+    <td align="center"><code>TypeScript</code></td>
+    <td align="center">Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/britonmearsty/dekumart"><b>DekuMart</b></a></td>
+    <td>Community marketplace for Dedan Kimathi University students</td>
+    <td align="center"><code>TypeScript</code></td>
+    <td align="center">Shipped</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/britonmearsty/friendly-invoice-assistant"><b>Invoice Assistant</b></a></td>
+    <td>Automated invoicing and billing assistant</td>
+    <td align="center"><code>TypeScript</code></td>
+    <td align="center">Shipped</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/britonmearsty/happy-workplace-wellbeing"><b>Workplace Wellbeing</b></a></td>
+    <td>Employee wellbeing and engagement platform</td>
+    <td align="center"><code>TypeScript</code></td>
+    <td align="center">Shipped</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/britonmearsty/portfolio-Website"><b>Portfolio Website</b></a></td>
+    <td>Personal developer portfolio and showcase</td>
+    <td align="center"><code>TypeScript</code></td>
+    <td align="center">Live</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=britonmearsty&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&rank_icon=github" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britonmearsty&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=britonmearsty&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=britonmearsty&bg_color=0d1117&color=ffffff&line=00b4d8&point=90e0ef&area=true&area_color=0a2a4a&hide_border=true&radius=6" />
+
+</div>
+
+<br/>
+
+---
+
+## Profile Summary
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=britonmearsty&theme=github_dark" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=britonmearsty&theme=github_dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=britonmearsty&theme=github_dark" />
     </td>
   </tr>
 </table>
@@ -105,54 +189,12 @@ const briton: Developer = {
 
 ---
 
-## Projects
-
-<div align="center">
-
-| Project | Description | Language | Status |
-|:---|:---|:---:|:---:|
-| [SafariMind](https://github.com/britonmearsty/safarimind1) | AI-powered platform — first release, ongoing development | `TypeScript` | Active |
-| [DekuMart](https://github.com/britonmearsty/dekumart) | Community marketplace for Dedan Kimathi University students | `TypeScript` | Shipped |
-| [Friendly Invoice Assistant](https://github.com/britonmearsty/friendly-invoice-assistant) | Automated invoicing and billing assistant | `TypeScript` | Shipped |
-| [Happy Workplace Wellbeing](https://github.com/britonmearsty/happy-workplace-wellbeing) | Employee wellbeing platform | `TypeScript` | Shipped |
-| [Portfolio Website](https://github.com/britonmearsty/portfolio-Website) | Personal developer portfolio and showcase | `TypeScript` | Live |
-
-</div>
-
-<br/>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=britonmearsty&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&rank_icon=github&hide_title=false" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britonmearsty&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=britonmearsty&hide_border=true&background=0d1117&ring=00b4d8&fire=0096c7&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=britonmearsty&bg_color=0d1117&color=90e0ef&line=00b4d8&point=caf0f8&area=true&area_color=0a2a4a&hide_border=true&radius=6" />
-
-</div>
-
-<br/>
-
----
-
 ## Achievements
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <th>Achievement</th>
-    <th>Description</th>
+    <th align="left" width="25%">Achievement</th>
+    <th align="left">Description</th>
   </tr>
   <tr>
     <td><b>Pull Shark &times;2</b></td>
@@ -168,33 +210,13 @@ const briton: Developer = {
   </tr>
 </table>
 
-</div>
-
-<br/>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britonmearsty/britonmearsty/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/britonmearsty/britonmearsty/output/github-snake.svg" />
-  <img alt="Contribution Graph Snake" src="https://raw.githubusercontent.com/britonmearsty/britonmearsty/output/github-snake-dark.svg" />
-</picture>
-
-<sub>To activate the snake animation, add the <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> to your profile repository.</sub>
-
-</div>
-
 <br/>
 
 ---
 
 <div align="center">
 
-<sub>Open to new opportunities &nbsp;·&nbsp; Based in Nairobi, Kenya &nbsp;·&nbsp; <a href="https://twitter.com/MearstyBriton">@MearstyBriton</a></sub>
+<sub>Open to new opportunities &nbsp;·&nbsp; Nairobi, Kenya &nbsp;·&nbsp; <a href="https://twitter.com/MearstyBriton">@MearstyBriton</a></sub>
 
 <br/><br/>
 
